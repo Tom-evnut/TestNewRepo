@@ -10117,3 +10117,27 @@ Time Stamp,ID,Extended,Dir,Bus,LEN,D1,D2,D3,D4,D5,D6,D7,D8
 54714226,00000526,false,Rx,0,6,05,02,FA,17,00,00,00,00,
 54714450,00000527,false,Rx,0,6,06,02,77,09,00,00,00,00,
 54714680,00000528,false,Rx,0,6,07,02,FA,00,00,00,00,00,
+# # SavvyCAN log notes v1
+# title: MG Charger 5 Amp limit Charging
+# author: BenB
+# tags: Vehicle
+# saved: 2026-10-26T12:05:33Z
+# savvycan: 242
+# log: MG charger 5 amp with notes.csv
+# frames: 10118
+# span: 25.846151 s to 54.714680 s
+#
+# ## System
+# On a Vehicle Ben testing the MG Charger
+#
+# ## Observations
+# 5 Amps limit
+#
+# ## Buses
+# - one bus
+#
+# ## DBC files
+# - A306_VBus_A8.dbc (all buses)
+#
+# ## Markers
+# - 25.861528 s: Magic
